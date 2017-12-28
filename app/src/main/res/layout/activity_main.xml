@@ -14,7 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
-            android:src="@drawable/sparkels1" />
+            android:src="@drawable/sparkles" />
 
         <FrameLayout android:id="@+id/img_container"
             android:layout_width="match_parent"
@@ -26,7 +26,7 @@
                 android:foregroundGravity="clip_vertical"
                 android:id="@+id/img"
                 android:scaleType="fitXY"
-                android:src="@drawable/sparkels2" />
+                android:src="@drawable/sparkles2" />
         </FrameLayout>
     </your.app.package.ObservableScrollView>
 </RelativeLayout>
